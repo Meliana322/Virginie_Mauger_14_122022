@@ -1,0 +1,18 @@
+.link {
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.link a {
+    text-decoration: none;
+    color: black;
+    font-weight: 600;
+    border-color: #556b00;
+    background-color: #556b00;
+    border-radius: 5px;
+    padding: 10px;
+    color: white;
+}

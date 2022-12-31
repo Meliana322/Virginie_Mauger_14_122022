@@ -1,0 +1,15 @@
+.title {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: #93ad18;
+    width: 100%;
+    align-items: center;
+}
+
+.title h1 {
+    margin-bottom: unset;
+}
+.title img {
+    width: 200px;
+}
