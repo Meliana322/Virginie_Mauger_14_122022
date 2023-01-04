@@ -36,7 +36,6 @@ export default function Form({ setEmployeeList }) {
     }
 
     setEmployeeList((previousValues) => [...previousValues, newEmployee])
-    console.log(inputs)
     toggleModal()
     reset()
   }
